@@ -24,7 +24,7 @@ The challenge was to build a responsive four-card feature section. Each card nee
 ![Screenshot of the Four Card Feature Section](./design/mobile-design.jpg)
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/Deepanshu1337/four-card-feature-section)
+- Solution URL: [GitHub Repository](https://github.com/Deepanshu1337/flexbox-four-card-feature-section-master)
 - Live Site URL: [Live Demo](https://four-card-challange.surge.sh)
 
 ## My process
